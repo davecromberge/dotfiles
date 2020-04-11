@@ -1,7 +1,7 @@
 dotfiles
 ========
 
-Configuration for all the software I use, ready for a fresh install.
+This is based on the original from Gabriel Volpe available [here](https://github.com/gvolpe/dotfiles).
 
 ## Install and configure software
 
